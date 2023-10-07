@@ -1,0 +1,45 @@
+/* Estilos para el perfil */
+#perfil {
+    text-align: center;
+    margin: 20px;
+    background-color: #fff; /* Fondo blanco */
+    border-radius: 15px; /* Redondear los bordes */
+    padding: 20px; /* Espaciado interno */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
+}
+
+#perfil img {
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+#perfil h2 {
+    color: #333;
+    font-size: 24px;
+}
+
+#perfil h3 {
+    color: #d37800;
+    font-size: 20px;
+}
+
+#perfil ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#perfil li {
+    color: #666;
+    margin-bottom: 5px;
+}
+
+/* Estilos para los enlaces */
+a {
+    color: #eb9800;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #865100;
+}
